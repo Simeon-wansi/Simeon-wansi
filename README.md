@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Simeon%20Wansi&fontSize=50&fontColor=4fc3f7&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descAlignY=58&descColor=90caf9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Simeon%20Wansi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20AI%20Engineer%20%7C%20Abu%20Dhabi%2C%20UAE&descAlignY=55&descColor=90caf9&animation=fadeIn" width="100%"/>
 
-</div>
+<a href="https://linkedin.com/in/simeondevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://simeondev.com"><img src="https://img.shields.io/badge/Portfolio-4fc3f7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="mailto:simeondevs1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Simeon-wansi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<div align="center">
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simeondevs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4fc3f7?style=for-the-badge&logo=safari&logoColor=white)](https://simeondev.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simeondevs1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simeon-wansi)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;Security-First+Systems+Builder;42+Abu+Dhabi+Common+Core+Graduate;I+build+like+it%27s+going+to+production.)
 
 </div>
 
@@ -19,107 +19,132 @@
 
 ```typescript
 const simeon = {
-  location: "Abu Dhabi, UAE",
-  focus: ["Backend Systems", "AI Engineering", "Security"],
-  currentlyBuilding: "ft_transcendence — production multiplayer platform",
-  milestone: "✅ Completed 42 Abu Dhabi Common Core",
-  mindset: "I build like it's going to production. Whether it's 48h or 4 months.",
+  location    : "Abu Dhabi, UAE",
+  focus       : ["Backend Systems", "AI Engineering", "Security"],
+  milestone   : "Completed 42 Abu Dhabi Common Core",
+  currentWork : "ft_transcendence - production multiplayer platform",
+  mindset     : "I build like it's going to production. Whether it's 48h or 4 months.",
+  openTo      : ["Full-time roles", "Remote opportunities", "Relocation"],
 };
 ```
 
-I'm a backend and AI engineer focused on building secure, scalable systems — from low-level C infrastructure to AI-powered web platforms. I architect authentication layers, design data pipelines, and integrate intelligent systems into production environments.
+I'm a backend and AI engineer focused on building secure, scalable systems. From low-level C infrastructure to AI-powered web platforms, I architect authentication layers, design data pipelines, and integrate intelligent systems into production environments.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & Systems**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+**Backend and Systems**
 
-**AI & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**AI and ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**DevOps & Security**
+**DevOps and Security**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔐 ft_transcendence
-> Production-grade multiplayer platform — **42 Abu Dhabi Common Core Final Project**
+**Production multiplayer platform**
 
-- Architected the full authentication layer: OAuth 2.0, JWT session management, TOTP-based 2FA
-- Implemented API hardening, WebSocket security, and role-based access control
-- Fully containerized with Docker, environment separation, and secure secret handling
+42 Abu Dhabi Common Core Final Project
 
-`TypeScript` `Fastify` `PostgreSQL` `Prisma` `Docker` `WebSockets`
+- Full auth layer: OAuth 2.0, JWT, TOTP 2FA
+- API hardening, WebSocket security, RBAC
+- Dockerized with env separation and secret handling
 
----
+`TypeScript` `Fastify` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏗️ Inception
-> Multi-container infrastructure from scratch
+**Multi-container infrastructure**
 
-- Built a complete LEMP-stack environment with WordPress, MariaDB, NGINX, and SSL/TLS
-- CI/CD-ready with environment separation and automated service orchestration
+- LEMP stack: WordPress, MariaDB, NGINX, SSL/TLS
+- Automated service orchestration
 
-`Docker` `docker-compose` `NGINX` `MariaDB`
+`Docker` `NGINX` `MariaDB`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🖥️ Minishell
-> Unix shell built from scratch in C
+**Unix shell in C**
 
-- Implemented parsing, piping, redirections, environment variables, and signal handling
-- Full process lifecycle management using Unix system calls
+- Parsing, piping, redirections, signal handling
+- Full process lifecycle via Unix system calls
 
 `C` `Unix` `System Programming`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 Cub3D
-> 3D raycasting engine in C
+**3D raycasting engine in C**
 
-- Real-time 3D rendering using raycasting algorithm, texture mapping, 60 FPS optimization
+- Real-time rendering with texture mapping
+- Optimized to 60 FPS
 
 `C` `Graphics Programming` `Raycasting`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Hackathon Wins
 
+<div align="center">
+
 | Year | Event | Project | Result |
-|------|-------|---------|--------|
-| 2025 | WIO Hackathon | Credit Card Intelligence — NLP benefit extraction (95% accuracy) | 🥇 1st Place |
-| 2025 | TotalEnergies Hackathon | Smart Safety Suit — IoT vitals & hazard monitoring | 🥇 1st Place |
-| 2025 | UAE Dept of Health | AI Fitness Analyzer — Computer vision exercise analysis (92% accuracy) | 🥇 1st Place |
-| 2025 | Cleveland Clinic | CleveCare — 7-agent AI healthcare triage system | 🥈 2nd Place |
+|:----:|-------|---------|:------:|
+| 2025 | WIO Hackathon | Credit Card Intelligence - NLP benefit extraction, 95% accuracy | 🥇 1st |
+| 2025 | TotalEnergies | Smart Safety Suit - IoT vitals and hazard monitoring | 🥇 1st |
+| 2025 | UAE Dept of Health | AI Fitness Analyzer - Computer vision, 92% accuracy | 🥇 1st |
+| 2025 | Cleveland Clinic | CleveCare - 7-agent AI healthcare triage system | 🥈 2nd |
+
+</div>
 
 ---
 
@@ -127,14 +152,12 @@ I'm a backend and AI engineer focused on building secure, scalable systems — f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simeon-wansi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simeon-wansi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simeon-wansi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simeon-wansi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Simeon-wansi&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simeon-wansi&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simeon-wansi&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
 </div>
 
@@ -142,15 +165,23 @@ I'm a backend and AI engineer focused on building secure, scalable systems — f
 
 ## 🌍 Beyond Code
 
-- 🏅 **Judge** — World Robot Olympiad AI Series & UAE National Championship 2025
-- 🎙️ **Organizer** — Devspace Club, 42 Abu Dhabi
-- 🎓 **Mentor** — Python bootcamp instructor for 20+ students at 42 Abu Dhabi
-- 🌐 **Languages** — English, French, Arabic (basic)
+<div align="center">
+
+| Role | Details |
+|------|---------|
+| 🏅 Judge | World Robot Olympiad AI Series and UAE National Championship 2025 |
+| 🎙️ Organizer | Devspace Club, 42 Abu Dhabi |
+| 🎓 Mentor | Python bootcamp instructor for 20+ students at 42 Abu Dhabi |
+| 🌐 Languages | English (Fluent), French (Fluent), Arabic (Basic) |
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=Simeon-wansi&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
