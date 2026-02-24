@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Simeon%20Wansi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20AI%20Engineer%20%7C%20Abu%20Dhabi%2C%20UAE&descAlignY=55&descColor=90caf9&animation=fadeIn" width="100%"/>
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <text x="600" y="95" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#4fc3f7" text-anchor="middle">Simeon Wansi</text>
+  <text x="600" y="145" font-family="Arial, sans-serif" font-size="22" fill="#90caf9" text-anchor="middle">Backend &amp; AI Engineer | Abu Dhabi, UAE</text>
+  <path d="M0,180 Q300,160 600,175 Q900,190 1200,170 L1200,200 L0,200 Z" fill="#161b22"/>
+</svg>
 
 <a href="https://linkedin.com/in/simeondevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://simeondev.com"><img src="https://img.shields.io/badge/Portfolio-4fc3f7?style=for-the-badge&logo=safari&logoColor=white"/></a>
@@ -182,6 +194,20 @@ I'm a backend and AI engineer focused on building secure, scalable systems. From
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Simeon-wansi&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS)
 
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 Q300,80 600,50 Q900,20 1200,60 L1200,120 L0,120 Z" fill="url(#fg)"/>
+</svg>
+
+</div>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
