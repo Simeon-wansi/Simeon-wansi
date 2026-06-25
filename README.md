@@ -54,66 +54,75 @@ I build like it's going to production, whether it's a 48-hour sprint or a long-t
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>VeriDoc</strong><br/>
-      AI-assisted document verification workflow for identity and compliance checks.
-      <br/><br/>
-      <code>AI</code> <code>Backend</code> <code>Verification</code>
+### VeriDoc
+*Production RAG system*
 
-    </td>
-    <td width="50%" valign="top">
-      <strong>MARA</strong><br/>
-      AI recommendation assistant built to guide product discovery and decision-making.
-      <br/><br/>
-      <code>AI</code> <code>Recommendations</code> <code>Conversational UX</code>
+Production RAG pipeline over 200k+ documents with hybrid retrieval and a two-layer hallucination confidence guard.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>CleveCare</strong><br/>
-      7-agent AI healthcare triage system for structured intake and next-step guidance.
-      <br/><br/>
-      <code>Agents</code> <code>Healthcare AI</code> <code>Triage</code>
+![Python](https://img.shields.io/badge/Python-002E24?style=flat-square&logo=python&logoColor=00D4A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-002E24?style=flat-square&logo=fastapi&logoColor=00D4A0)
+![LangChain](https://img.shields.io/badge/LangChain-002E24?style=flat-square&logo=langchain&logoColor=00D4A0)
+![Qdrant](https://img.shields.io/badge/Qdrant-002E24?style=flat-square&logo=qdrant&logoColor=00D4A0)
+![Cohere](https://img.shields.io/badge/Cohere-002E24?style=flat-square&logo=cohere&logoColor=00D4A0)
 
-    </td>
-    <td width="50%" valign="top">
-      <strong>Tayseer</strong><br/>
-      Workflow-focused platform designed to simplify complex user journeys and operations.
-      <br/><br/>
-      <code>Automation</code> <code>Product Design</code> <code>Operations</code>
+### MARA
+*Shortlisted from 93 teams at GenAI Zurich 2026*
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>ProofTrade</strong><br/>
-      AI trading agent focused on signal evaluation, execution logic, and risk-aware automation.
-      <br/><br/>
-      <code>AI Agents</code> <code>Trading</code> <code>Automation</code>
+Memory-augmented retail AI agent with exponential-decay memory scoring for more relevant, context-aware product recommendations.
 
-    </td>
-    <td width="50%" valign="top">
-      <strong>SecurAI</strong><br/>
-      Security-focused AI tooling for identifying threats, risky patterns, and response actions.
-      <br/><br/>
-      <code>Security</code> <code>AI</code> <code>Detection</code>
+![FastAPI](https://img.shields.io/badge/FastAPI-002E24?style=flat-square&logo=fastapi&logoColor=00D4A0)
+![LangChain](https://img.shields.io/badge/LangChain-002E24?style=flat-square&logo=langchain&logoColor=00D4A0)
+![Qdrant](https://img.shields.io/badge/Qdrant-002E24?style=flat-square&logo=qdrant&logoColor=00D4A0)
+![HuggingFace BGE](https://img.shields.io/badge/HuggingFace%20BGE-002E24?style=flat-square&logo=huggingface&logoColor=00D4A0)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Sapely</strong><br/>
-      AI coaching platform focused on structured guidance, progress tracking, and habit support.
-      <br/><br/>
-      <code>AI</code> <code>Coaching</code> <code>In Progress</code>
+### CleveCare
+*2nd place at the Cleveland Clinic Abu Dhabi Hackathon 2025*
 
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
+7-agent AI prototype for patient triage and specialist routing, built to structure intake and guide faster clinical handoff.
+
+![Python](https://img.shields.io/badge/Python-002E24?style=flat-square&logo=python&logoColor=00D4A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-002E24?style=flat-square&logo=fastapi&logoColor=00D4A0)
+![LangChain](https://img.shields.io/badge/LangChain-002E24?style=flat-square&logo=langchain&logoColor=00D4A0)
+![OpenAI](https://img.shields.io/badge/OpenAI-002E24?style=flat-square&logo=openai&logoColor=00D4A0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002E24?style=flat-square&logo=postgresql&logoColor=00D4A0)
+
+### Tayseer
+*Built for the UAE Ministry of Energy and Infrastructure*
+
+Multi-agent AI platform for automated mortgage rescheduling, designed to simplify approvals and reduce manual coordination.
+
+![Next.js](https://img.shields.io/badge/Next.js-002E24?style=flat-square&logo=nextdotjs&logoColor=00D4A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-002E24?style=flat-square&logo=fastapi&logoColor=00D4A0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002E24?style=flat-square&logo=postgresql&logoColor=00D4A0)
+![Qwen2.5](https://img.shields.io/badge/Qwen2.5-002E24?style=flat-square&logoColor=00D4A0)
+![Together.ai](https://img.shields.io/badge/Together.ai-002E24?style=flat-square&logo=togetherai&logoColor=00D4A0)
+
+### ProofTrade
+*Autonomous trading experimentation*
+
+AI trading agent for monitoring signals, evaluating setups, and automating rule-based execution with risk-aware decision logic.
+
+![AI Agent](https://img.shields.io/badge/AI%20Agent-002E24?style=flat-square&logoColor=00D4A0)
+![Trading](https://img.shields.io/badge/Trading-002E24?style=flat-square&logoColor=00D4A0)
+![Automation](https://img.shields.io/badge/Automation-002E24?style=flat-square&logoColor=00D4A0)
+
+### SecurAI
+*Built for MBZUAI K2 Think V2*
+
+Full-stack AI web vulnerability scanner with an async task pipeline and real-time data delivery for faster security feedback.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-002E24?style=flat-square&logo=fastapi&logoColor=00D4A0)
+![Celery](https://img.shields.io/badge/Celery-002E24?style=flat-square&logo=celery&logoColor=00D4A0)
+![Redis](https://img.shields.io/badge/Redis-002E24?style=flat-square&logo=redis&logoColor=00D4A0)
+![Supabase](https://img.shields.io/badge/Supabase-002E24?style=flat-square&logo=supabase&logoColor=00D4A0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002E24?style=flat-square&logo=postgresql&logoColor=00D4A0)
+
+### Sapely
+*Currently in progress*
+
+AI coaching platform focused on structured guidance, accountability, and long-term habit support.
+
+![In Progress](https://img.shields.io/badge/In%20Progress-002E24?style=flat-square&logo=clockify&logoColor=00D4A0)
 
 ---
 
