@@ -1,190 +1,164 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Simeon Wansi banner">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#0f3460"/>
+    <linearGradient id="hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#080f0f"/>
+      <stop offset="50%" style="stop-color:#002e24"/>
+      <stop offset="100%" style="stop-color:#004d3a"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#009a77"/>
+      <stop offset="50%" style="stop-color:#00d4a0"/>
+      <stop offset="100%" style="stop-color:#6ff3d1"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <text x="600" y="95" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#4fc3f7" text-anchor="middle">Simeon Wansi</text>
-  <text x="600" y="145" font-family="Arial, sans-serif" font-size="22" fill="#90caf9" text-anchor="middle">Backend &amp; AI Engineer | Abu Dhabi, UAE</text>
-  <path d="M0,180 Q300,160 600,175 Q900,190 1200,170 L1200,200 L0,200 Z" fill="#161b22"/>
+  <rect width="1200" height="220" fill="url(#hero)"/>
+  <text x="600" y="98" font-family="Space Grotesk, Verdana, sans-serif" font-size="50" font-weight="700" fill="#00d4a0" text-anchor="middle">Simeon Wansi</text>
+  <text x="600" y="145" font-family="Space Grotesk, Verdana, sans-serif" font-size="22" fill="#888888" text-anchor="middle">Backend &amp; AI Engineer | Abu Dhabi, UAE</text>
+  <path d="M0,176 C160,208 310,208 470,184 C650,156 805,152 972,178 C1072,194 1137,199 1200,192 L1200,220 L0,220 Z" fill="#00d4a0" fill-opacity="0.15"/>
+  <path d="M0,190 C145,170 305,168 454,184 C610,202 776,212 926,190 C1044,172 1128,164 1200,170 L1200,220 L0,220 Z" fill="url(#wave)"/>
 </svg>
 
-<a href="https://linkedin.com/in/simeondevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://simeondev.com"><img src="https://img.shields.io/badge/Portfolio-4fc3f7?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="mailto:simeondevs1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Simeon-wansi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/simeondevs"><img src="https://img.shields.io/badge/LinkedIn-00D4A0?style=for-the-badge&amp;logo=linkedin&amp;logoColor=080f0f" alt="LinkedIn"/></a>
+<a href="https://simeondev.com"><img src="https://img.shields.io/badge/Portfolio-00D4A0?style=for-the-badge&amp;logo=safari&amp;logoColor=080f0f" alt="Portfolio"/></a>
+<a href="mailto:simeondevs1@gmail.com"><img src="https://img.shields.io/badge/Email-00D4A0?style=for-the-badge&amp;logo=gmail&amp;logoColor=080f0f" alt="Email"/></a>
+<a href="https://github.com/simeon-devs"><img src="https://img.shields.io/badge/GitHub-00D4A0?style=for-the-badge&amp;logo=github&amp;logoColor=080f0f" alt="GitHub"/></a>
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;Security-First+Systems+Builder;42+Abu+Dhabi+Common+Core+Graduate;I+build+like+it%27s+going+to+production.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4A0&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Engineer;Security-First+Systems+Builder;42+Abu+Dhabi+Common+Core+Graduate;I+build+like+it%27s+going+to+production.)
 
 </div>
 
 ---
 
-## 👋 About Me
-
-```typescript
-const simeon = {
-  location    : "Abu Dhabi, UAE",
-  focus       : ["Backend Systems", "AI Engineering", "Security"],
-  milestone   : "Completed 42 Abu Dhabi Common Core",
-  currentWork : "ft_transcendence - production multiplayer platform",
-  mindset     : "I build like it's going to production. Whether it's 48h or 4 months.",
-  openTo      : ["Full-time roles", "Remote opportunities", "Relocation"],
-};
-```
-
-I'm a backend and AI engineer focused on building secure, scalable systems. From low-level C infrastructure to AI-powered web platforms, I architect authentication layers, design data pipelines, and integrate intelligent systems into production environments.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend and Systems**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**AI and ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**DevOps and Security**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## About Me
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="8" bgcolor="#00D4A0"></td>
+    <td valign="top">
+      <strong>Based in</strong> Abu Dhabi, UAE<br/>
+      <strong>Focused on</strong> Backend Systems, AI Engineering, and Security<br/>
+      <strong>Background</strong> 42 Abu Dhabi Common Core graduate<br/>
+      <strong>Currently building</strong> Sapely, an AI coaching platform<br/>
+      <strong>Open to</strong> Full-time roles, remote opportunities, and relocation
+    </td>
+  </tr>
+</table>
 
-### 🔐 ft_transcendence
-**Production multiplayer platform**
+I build like it's going to production, whether it's a 48-hour sprint or a long-term product. My work centers on secure backend systems, practical AI products, and shipping things that stay useful after the demo.
 
-42 Abu Dhabi Common Core Final Project
+---
 
-- Full auth layer: OAuth 2.0, JWT, TOTP 2FA
-- API hardening, WebSocket security, RBAC
-- Dockerized with env separation and secret handling
+## Featured Projects
 
-`TypeScript` `Fastify` `PostgreSQL` `Docker`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>VeriDoc</strong><br/>
+      AI-assisted document verification workflow for identity and compliance checks.
+      <br/><br/>
+      <code>AI</code> <code>Backend</code> <code>Verification</code>
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
+      <strong>MARA</strong><br/>
+      AI recommendation assistant built to guide product discovery and decision-making.
+      <br/><br/>
+      <code>AI</code> <code>Recommendations</code> <code>Conversational UX</code>
 
-### 🏗️ Inception
-**Multi-container infrastructure**
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>CleveCare</strong><br/>
+      7-agent AI healthcare triage system for structured intake and next-step guidance.
+      <br/><br/>
+      <code>Agents</code> <code>Healthcare AI</code> <code>Triage</code>
 
-- LEMP stack: WordPress, MariaDB, NGINX, SSL/TLS
-- Automated service orchestration
+    </td>
+    <td width="50%" valign="top">
+      <strong>Tayseer</strong><br/>
+      Workflow-focused platform designed to simplify complex user journeys and operations.
+      <br/><br/>
+      <code>Automation</code> <code>Product Design</code> <code>Operations</code>
 
-`Docker` `NGINX` `MariaDB`
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>ProofTrade</strong><br/>
+      AI trading agent focused on signal evaluation, execution logic, and risk-aware automation.
+      <br/><br/>
+      <code>AI Agents</code> <code>Trading</code> <code>Automation</code>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
+      <strong>SecurAI</strong><br/>
+      Security-focused AI tooling for identifying threats, risky patterns, and response actions.
+      <br/><br/>
+      <code>Security</code> <code>AI</code> <code>Detection</code>
 
-### 🖥️ Minishell
-**Unix shell in C**
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Sapely</strong><br/>
+      AI coaching platform focused on structured guidance, progress tracking, and habit support.
+      <br/><br/>
+      <code>AI</code> <code>Coaching</code> <code>In Progress</code>
 
-- Parsing, piping, redirections, signal handling
-- Full process lifecycle via Unix system calls
-
-`C` `Unix` `System Programming`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Cub3D
-**3D raycasting engine in C**
-
-- Real-time rendering with texture mapping
-- Optimized to 60 FPS
-
-`C` `Graphics Programming` `Raycasting`
-
-</td>
-</tr>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
 
-## 🏆 Hackathon Wins
+## Hackathons
 
 <div align="center">
 
-| Year | Event | Project | Result |
-|:----:|-------|---------|:------:|
-| 2025 | WIO Hackathon | Credit Card Intelligence - NLP benefit extraction, 95% accuracy | 🥇 1st |
-| 2025 | TotalEnergies | Smart Safety Suit - IoT vitals and hazard monitoring | 🥇 1st |
-| 2025 | UAE Dept of Health | AI Fitness Analyzer - Computer vision, 92% accuracy | 🥇 1st |
-| 2025 | Cleveland Clinic | CleveCare - 7-agent AI healthcare triage system | 🥈 2nd |
+| Event | Result |
+|-------|--------|
+| DOH | 🥇 1st |
+| WIO | 🥇 1st |
+| TotalEnergies | 🥇 1st |
+| Cleveland | 🥈 2nd |
+| ISNR CTF | 🥈 2nd |
+| GenAI Zurich | ⭐ Shortlisted |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simeon-wansi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simeon-wansi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=simeon-devs&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=080f0f&amp;title_color=00D4A0&amp;text_color=C9D1D9&amp;icon_color=00D4A0&amp;ring_color=00D4A0" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeon-devs&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=080f0f&amp;title_color=00D4A0&amp;text_color=C9D1D9" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Simeon-wansi&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=simeon-devs&amp;hide_border=true&amp;background=080F0F&amp;stroke=0B1613&amp;ring=00D4A0&amp;fire=00D4A0&amp;currStreakLabel=00D4A0&amp;sideNums=C9D1D9&amp;currStreakNum=C9D1D9&amp;dates=888888&amp;sideLabels=C9D1D9" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simeon-wansi&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simeon-devs&amp;bg_color=080f0f&amp;color=888888&amp;line=00d4a0&amp;point=7ff5d3&amp;area=true&amp;area_color=002e24&amp;hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## 🌍 Beyond Code
+## Beyond Code
 
 <div align="center">
 
-| Role | Details |
+| Area | Details |
 |------|---------|
-| 🏅 Judge | World Robot Olympiad AI Series and UAE National Championship 2025 |
-| 🎙️ Organizer | Devspace Club, 42 Abu Dhabi |
-| 🎓 Mentor | Python bootcamp instructor for 20+ students at 42 Abu Dhabi |
-| 🌐 Languages | English (Fluent), French (Fluent), Arabic (Basic) |
+| Speaker | AD Nursing Conf 2025 |
+| Judge | World Robot Olympiad |
+| AI Ambassador | ZAKA |
+s| Languages | French (Native), English (Fluent), Spanish (Basic) |
 
 </div>
 
@@ -192,22 +166,17 @@ I'm a backend and AI engineer focused on building secure, scalable systems. From
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Simeon-wansi&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=simeon-devs&color=00d4a0&style=for-the-badge&label=PROFILE+VIEWS)
 
-<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer wave">
   <defs>
-    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#0f3460"/>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#002e24"/>
+      <stop offset="50%" style="stop-color:#00d4a0"/>
+      <stop offset="100%" style="stop-color:#6ff3d1"/>
     </linearGradient>
   </defs>
-  <path d="M0,40 Q300,80 600,50 Q900,20 1200,60 L1200,120 L0,120 Z" fill="url(#fg)"/>
+  <path d="M0,40 C140,78 292,92 438,70 C612,44 754,16 914,28 C1038,38 1132,60 1200,74 L1200,120 L0,120 Z" fill="url(#footerWave)"/>
 </svg>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
